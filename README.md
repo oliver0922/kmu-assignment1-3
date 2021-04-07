@@ -49,6 +49,7 @@ darknet으로 설정하였다.**
 train 동안의 log를 살펴보면 model을 train 할 때와 evaluate 할 때를 각각 기록하는 것을 알 수 있다. 평균적으로 한 epoch 당 약 20분의 시간이 걸렸으며 , model을 evaluate 하는데는 시간이 얼마 걸리지 않았다.
 
 **⑩ tensorboard에 log값을 전달해서 결과를 확인한다.**
+
 ![image](https://user-images.githubusercontent.com/69920975/113880235-46c50c80-97f6-11eb-8729-e26221306e94.png)
 ![image](https://user-images.githubusercontent.com/69920975/113880242-49276680-97f6-11eb-8e1a-bdb41be0a5a5.png)
 
